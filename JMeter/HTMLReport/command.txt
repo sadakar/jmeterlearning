@@ -1,0 +1,6 @@
+Create html report by running .jmx file
+C:\apache-jmeter-5.6.3\bin>jmeter -n -t C:\Learnings\JMeter\HTMLReport\HTMLReport.jmx -l C:\Learnings\JMeter\HTMLReport\Results.csv -e -o C:\Learnings\JMeter\HTMLReport\HTMLReports
+
+
+Create html report from existing csv file:
+C:\apache-jmeter-5.6.3\bin>jmeter -g C:\Learnings\JMeter\HTMLReport\Results.csv -o C:\Learnings\JMeter\HTMLReport\HTMLReportsFromExistingCSV

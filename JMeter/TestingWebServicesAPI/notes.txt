@@ -1,0 +1,3 @@
+https://openweathermap.org/api
+
+API Key: 7dbd7b838e01289b24fe90f6d2c0a637
